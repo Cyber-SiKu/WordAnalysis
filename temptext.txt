@@ -1,0 +1,2 @@
+WrongInfomation wr(WrongInfomation::lines_,WrongInfomation::ERROR1);
+					vector_wrong_infomation.push_back(wr);

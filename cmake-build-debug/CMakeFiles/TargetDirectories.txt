@@ -1,0 +1,3 @@
+/home/siku/Dropbox/code/compile/WordAnalysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/siku/Dropbox/code/compile/WordAnalysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/siku/Dropbox/code/compile/WordAnalysis/cmake-build-debug/CMakeFiles/WordAnalysis.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/WordAnalysis.dir/main.cpp.o CMakeFiles/WordAnalysis.dir/ClassifyValue.cpp.o CMakeFiles/WordAnalysis.dir/WrongInfomation.cpp.o CMakeFiles/WordAnalysis.dir/Table.cpp.o  -o WordAnalysis 

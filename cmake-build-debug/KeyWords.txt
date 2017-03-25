@@ -1,0 +1,14 @@
+int
+char
+float
+void
+const
+for
+if
+else
+then
+while
+switch
+break
+begin
+end
